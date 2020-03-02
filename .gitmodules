@@ -1,0 +1,6 @@
+[submodule "BackEnd"]
+	path = BackEnd
+	url = git@github.com:prefeiturasp/SME-PTRF-BackEnd.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = git@github.com:prefeiturasp/SME-PTRF-FrontEnd.git
