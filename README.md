@@ -36,32 +36,38 @@ Auxilia na gestão dos recursos repassados para as Associações de Pais e Mestr
 <tbody>
 <tr>
 <td>Product Owner</td>
-<td>@satoru4fun</td>
-<td>@satoru4fun</td>
+<td>Ananda Grinkraut</td>
+<td>-</td>
 </tr>
 <tr>
 <td>Agente de Governança</td>
-<td>@satoru4fun</td>
-<td>@satoru4fun</td>
+<td>???</td>
+<td>???</td>
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
-<td>@satoru4fun</td>
-<td>@satoru4fun</td>
+<td>@Aline F. Pinto</td>
+<td>-</td>
 </tr>
 <tr>
 <td>Scrum Master</td>
-<td>@satoru4fun</td>
-<td>@satoru4fun</td>
+<td>Marcos S. Nastri</td>
+<td>-</td>
 </tr>
 <tr>
 <td>Analista UX/UI</td>
-<td>@satoru4fun</td>
+<td>Giovanna Zanettim</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Analista Programador</td>
-<td>@alcfernandes</td>
+<td>Alessandro Fernandes</td>
+<td>-</td>
+<td>Analista Programador</td>
+<td>Anderson Marques</td>
+<td>-</td>
+<td>Analista Programador</td>
+<td>Ollyver Ottoboni</td>
 <td>-</td>
 </tr>
 </tbody>
@@ -149,7 +155,6 @@ ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir
 nosso [código de conduta](./CODEOFCONDUCT.md).
 
 ## Repositórios:
-Informar os repositórios de código que envolvem a solução:
 
 [SME-PTRF-BackEnd](https://github.com/prefeiturasp/SME-PTRF-BackEnd)
 
