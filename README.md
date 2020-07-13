@@ -258,3 +258,36 @@ $ flower -A config --port=5555
 ```console
 $ celery  -A config purge
 ```
+
+### Para contribuir com o desenvolvimento do front:
+
+I) Clone o repositório.
+
+```console
+$ git clone https://github.com/prefeiturasp/SME-PTRF-FrontEnd.git front
+$ cd front
+```
+
+II. Instale as dependências.
+
+```console
+$ npm i
+```
+
+III. Configure a instância com o .env
+
+```console
+$ cp env_sample .env
+```
+
+IV. Execute os testes.
+
+```console
+$ npm test
+```
+
+V. Execute a aplicação.
+
+```console
+$ npm start
+```
