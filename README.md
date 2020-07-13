@@ -63,9 +63,13 @@ Auxilia na gestão dos recursos repassados para as Associações de Pais e Mestr
 <td>Analista Programador</td>
 <td>Alessandro Fernandes</td>
 <td>-</td>
+</tr>
+<tr>
 <td>Analista Programador</td>
 <td>Anderson Marques</td>
 <td>-</td>
+</tr>
+<tr>
 <td>Analista Programador</td>
 <td>Ollyver Ottoboni</td>
 <td>-</td>
