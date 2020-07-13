@@ -46,7 +46,7 @@ Auxilia na gestão dos recursos repassados para as Associações de Pais e Mestr
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
-<td>@Aline F. Pinto</td>
+<td>Aline F. Pinto</td>
 <td>-</td>
 </tr>
 <tr>
