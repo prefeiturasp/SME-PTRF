@@ -80,8 +80,7 @@ Auxilia na gestão dos recursos repassados para as Associações de Pais e Mestr
 ## Sobre o Produto
 
 ### Objetivos de Negócio
-Descrever o objetivo do produto e suas principais funcionalidades de forma bem macro.  
-Priorizar os objetivos de negócio  
+É uma aplicação digital que visa apoiar a execução do programa de transferência de recursos. Ele deve atender as necessidades dos usuários em três níveis de atuação: Escola/APM, DRE e SME.
 
 ### Personas
 **Quem:** Escolas/APM  
@@ -132,29 +131,48 @@ Inserir os links para os trabalhos de descoberta bem como uma explicação de ca
 
 **Entrevista com a área de negócio:**
 
-[https://whimsical.com/2ZxGrzD5F68C6f2zFb9XtY](https://whimsical.com/2ZxGrzD5F68C6f2zFb9XtY)
 
-**Oficina sobre Ateste:**
 
-[https://whimsical.com/2ZxGrzD5F68C6f2zFb9XtY](https://whimsical.com/2ZxGrzD5F68C6f2zFb9XtY)
+**Oficina:**
+
+
 
 **Repositório de documentos produzidos:**
 
-[https://smeprefeituraspgov.sharepoint.com/sites/amcom/Shared%20Documents/Forms/AllItems.aspx?viewid=086a7575%2Dba9c%2D474d%2D879e%2D2277cb17dcfe&id=%2Fsites%2Famcom%2FShared%20Documents%2FAMCom%2FDesign%20Thinking](https://smeprefeituraspgov.sharepoint.com/sites/amcom/Shared%20Documents/Forms/AllItems.aspx?viewid=086a7575%2Dba9c%2D474d%2D879e%2D2277cb17dcfe&id=%2Fsites%2Famcom%2FShared%20Documents%2FAMCom%2FDesign%20Thinking)
+
 
 ### Protótipos:
 Inserir link para os protótipos construídos:
 
-**Protótipo Navegável:** 
+**Protótipo navegável da prestação de contas da Associação:** 
 
-[https://www.figma.com/proto/kWXWnzOiKlRH2Mfouhi53I/CONTRATOS?node-id=1867%3A54139&viewport=2599%2C-936%2C0.25&scaling=min-zoom](https://www.figma.com/proto/kWXWnzOiKlRH2Mfouhi53I/CONTRATOS?node-id=1867%3A54139&viewport=2599%2C-936%2C0.25&scaling=min-zoom "https://www.figma.com/proto/kwxwnzoiklrh2mfouhi53i/contratos?node-id=1867%3a54139&viewport=2599%2c-936%2c0.25&scaling=min-zoom")
+[https://www.figma.com/proto/iaOuJhddfKRep92yQmAWEi/PTRF-sprint03?node-id=1279%3A481&viewport=903%2C495%2C0.125&scaling=min-zoom](https://www.figma.com/proto/iaOuJhddfKRep92yQmAWEi/PTRF-sprint03?node-id=1279%3A481&viewport=903%2C495%2C0.125&scaling=min-zoom "https://www.figma.com/proto/iaOuJhddfKRep92yQmAWEi/PTRF-sprint03?node-id=1279%3A481&viewport=903%2C495%2C0.125&scaling=min-zoom")
+
+**Protótipo navegável da Diretoria:** 
+
+[https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=234%3A2499&viewport=1019%2C1832%2C0.125&scaling=min-zoom](https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=234%3A2499&viewport=1019%2C1832%2C0.125&scaling=min-zoom "https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=234%3A2499&viewport=1019%2C1832%2C0.125&scaling=min-zoom")
+
+**Protótipo navegável do cálculo de repasses da Secretaria:** 
+
+[https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=204%3A264&viewport=590%2C381%2C0.125&scaling=min-zoom](https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=204%3A264&viewport=590%2C381%2C0.125&scaling=min-zoom "https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=204%3A264&viewport=590%2C381%2C0.125&scaling=min-zoom")
+
 
 ### Testes de Usabilidade:
 Inserir link para os testes de usabilidade aplicados:
 
-**Teste realizado com a equipe de contratos da COTIC:**
+**Testes realizados com o protótipo da Associação:**
 
-[link do teste]
+[https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03]
+(https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03
+"https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03")
+
+**Anotações referentes aos testes realizados com o protótipo da Associação:**
+
+[https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx]
+(https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx
+"https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx")
+
+
 
 
 ## Links Úteis:
