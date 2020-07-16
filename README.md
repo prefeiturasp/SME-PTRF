@@ -162,17 +162,13 @@ Inserir link para os testes de usabilidade aplicados:
 
 **Testes realizados com o protótipo da Associação:**
 
-[https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03]
-(https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03
-"https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03")
+[https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03](https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03 "https://github.com/prefeiturasp/SME-DesignServicos/tree/master/docs/3-novas-demandas/PTRF/videos-teste-usabilidade-2020-05-03")
 
 **Anotações referentes aos testes realizados com o protótipo da Associação:**
 
 [https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx]
 (https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx
 "https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx")
-
-
 
 
 ## Links Úteis:
