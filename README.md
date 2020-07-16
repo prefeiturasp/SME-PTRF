@@ -84,11 +84,37 @@ Descrever o objetivo do produto e suas principais funcionalidades de forma bem m
 Priorizar os objetivos de negócio  
 
 ### Personas
-Descrever os usuários, seus perfis e necessidades que impulsionam a funcionalidade do produto
+**Quem:** Escolas/APM  
+Características Principais: Diretores das associações_  
+Necessidades: Maior facilidade e transparência no processo de receber, gastar e prestar contas dos recursos do PRTF.  
+  
+**Quem:** DRE  
+Características Principais: Técnicos das diretorias_  
+Necessidades: Maior facilidade e transparência para acompanhar e validar a prestação de contas das associações e verificar os status de regularidade das mesmas.
+
+**Quem:** SME  
+Características Principais: Membros da secretaria  
+Necessidades: Maior facilidade e transparência no recebimento de documentos e comunicação com DREs e Associações, além de automatização de processos como previsão do cálculo de repasses.
 
 ### Funcionalidades
-Entender o escopo funcional de alto nível  
-Detalhar percepções de risco, esforço e valor de negócio por área funcional
+**Ferramenta de apoio às associações**
+- Dados da associação;  
+- Lançamento e acompanhamento dos créditos e despesas;  
+- Painel de dados;  
+- Central de notificações;  
+- Geração dos documentos para a prestação de contas ( Demonstrativo financeiro, relação de bens e atas de apresentação da prestação de contas);  
+  
+**Ferramenta de apoio às diretorias**
+- Dados da diretoria;  
+- Atribuição de técnicos as associações;  
+- Consulta das associações, verificação da regularidade e acompanhamento da prestação de contas;  
+- Gestão do processo de análise e fiscalização da prestação de contas;  
+- Geração de relatórios consolidados para a SME;  
+  
+**Ferramenta de apoio à secretária**  
+- Painel de dados;  
+- Cálculo dos repasses;  
+- Geração de relatórios;
 
 ### Jornadas
 Descrever as principais jornadas de usuários
