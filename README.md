@@ -166,9 +166,7 @@ Inserir link para os testes de usabilidade aplicados:
 
 **Anotações referentes aos testes realizados com o protótipo da Associação:**
 
-[https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx]
-(https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx
-"https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx")
+[https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx](https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx "https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx")
 
 
 ## Links Úteis:
