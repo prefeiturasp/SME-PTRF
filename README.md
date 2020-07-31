@@ -87,7 +87,7 @@ O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela
 ## Sobre o Produto
 
 ### Objetivos de Negócio
-É uma aplicação digital que visa apoiar a gestão e prestação de contas inicialmente do Programa de Transferência de Recursos Financeiros (PTRF). Ele deve atender as necessidades dos usuários em três níveis de atuação: Unidade Educacional/Associação, DRE e SME.
+O SIG-Escola é um sistema inteligente de gestão que permite que escolas, associações, DREs e SME tenham otimização do trabalho relativo à gestão dos recursos do PTRF, garantindo não apenas mais eficiência em todos os processos como também aumentando a transparência e possibilitando um trabalho baseado em análise de dados.
 
 ### Personas
 **Quem:** Unidade Educacional/Associações 
