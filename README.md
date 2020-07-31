@@ -126,10 +126,6 @@ Necessidades: Aprimorar a gestão dos recursos do PTRF, facilitar e dar mais tra
 Descrever as principais jornadas de usuários
 
 ### Roadmap
-Definir um roteiro de lançamento incremental, mostrando claramente os incrementos de MVP  
-Estimar esforço por amostragem  
-Calcular custos e especificar datas e cronograma de entrega
-
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=708
        style='width:531.35pt;border-collapse:collapse'>
