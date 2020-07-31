@@ -1,14 +1,21 @@
 Esse é o repositório central do projeto PTRF e as issues estão nele, mas ele é basicamente infra. O repositório da API em Django é esse:  [SME-PTRF-BackEnd](https://github.com/prefeiturasp/SME-PTRF-BackEnd) issues com a tag API viram PRs nele.
 e o react é esse aqui:  [SME-PTRF-FrontEnd](https://github.com/prefeiturasp/SME-PTRF-FrontEnd) issues com a tag interface viram PRs nele.
 
-# Pátio Digital
+# Estratégia de Transformação Digital e Governo Aberto na SME
 
-_“Recurso público retorna ao público”._
+Como um governo pode atuar para garantir o bem comum de todos? Na SME, acreditamos que um dos meios para isso seja garantir transparência e prestação de contas e constante relação entre governo e sociedade para o desenvolvimento e implementação de políticas públicas. 
 
-Nós somos o **pátio digital**, uma iniciativa da Secretaria Municipal de Educação de São Paulo que, por meio do fortalecimento da transparência, da participação social e do desenvolvimento de novas tecnologias, aproxima diferentes grupos da sociedade civil por um objetivo maior: a melhoria da educação na cidade de São Paulo.
+A Portaria SME nº 8.008, de 12 de novembro de 2018 oficializou a estratégia da Secretaria Municipal de Educação de SP para que nossas ações sejam pautadas nos princípios de Governo Aberto e para usarmos os valores e benefícios do mundo digital para melhorarmos nossos processos e serviços para os cidadãos. 
+Com isso, pretendemos: 
+- aumentar os níveis de transparência ativa e de abertura de dados, garantindo a proteção de dados pessoais; 
+- instituir metodologias ágeis e colaborativas como parte do processo de desenvolvimento e de evolução de sistemas administrativos e de serviços digitais; 
+- fortalecer o controle das políticas educacionais e da aplicação de recursos por parte da gestão e da sociedade; 
+- promover espaços e metodologias de colaboração entre governo, Academia, sociedade civil e setor privado. 
+
+O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/original/1X/c88a4715eb3f9fc3ceb882c1f6afe9e308805a17.pdf) é uma das ferramentas para operacionalização. Baseado em um modelo de contratação inspirado pelos movimentos ágil e de Software Craftsmanship, trabalhamos com equipes multidisciplinares para o desenvolvimento de produtos que beneficiam toda a comunidade escolar (técnicos da SME e DREs, gestores, professores, alunos e famílias) e concretizam os objetivos da Estratégia de Transformação Digital e Governo Aberto “Pátio Digital”.
 
 # PTRF
-Auxilia na gestão dos recursos repassados para as Associações de Pais e Mestres.
+O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela Secretaria Municipal de Educação em 2005, com objetivo de garantir maior autonomia às Unidades Educacionais. Os recursos são repassados às Associações de Pais e Mestres (APMs) e Associações de Pais e Mestres Servidores, Usuários e Amigos dos CEUs (APMSUAC), entidades responsáveis pelo recebimento, execução e prestação de contas dos recursos transferidos pela SME. A fiscalização da aplicação dos recursos financeiros é de responsabilidade das Diretorias Regionais de Educação e da Secretaria Municipal de Educação. Por meio do programa, a comunidade escolar participa do processo de decisão sobre o destino dos recursos repassados para manutenção e melhorias das Unidades Educacionais.
 
 **Conteúdo:**
  1. [Sobre o Time](#Sobre-o-Time)
@@ -80,20 +87,20 @@ Auxilia na gestão dos recursos repassados para as Associações de Pais e Mestr
 ## Sobre o Produto
 
 ### Objetivos de Negócio
-É uma aplicação digital que visa apoiar a execução do programa de transferência de recursos. Ele deve atender as necessidades dos usuários em três níveis de atuação: Escola/APM, DRE e SME.
+É uma aplicação digital que visa apoiar a gestão e prestação de contas inicialmente do Programa de Transferência de Recursos Financeiros (PTRF). Ele deve atender as necessidades dos usuários em três níveis de atuação: Unidade Educacional/Associação, DRE e SME.
 
 ### Personas
-**Quem:** Escolas/APM  
-Características Principais: Diretores das associações_  
-Necessidades: Maior facilidade e transparência no processo de receber, gastar e prestar contas dos recursos do PRTF.  
+**Quem:** Unidade Educacional/Associações 
+Características Principais: Os usuários iniciais serão os Diretores das associações e mais um servidor por este indicado.  
+Necessidades: Maior facilidade e transparência nos processos de gestão e prestação de contas dos recursos do PTRF.  
   
 **Quem:** DRE  
 Características Principais: Técnicos das diretorias_  
-Necessidades: Maior facilidade e transparência para acompanhar e validar a prestação de contas das associações e verificar os status de regularidade das mesmas.
+Necessidades: Maior facilidade e transparência para acompanhar e fiscalizar a prestação de contas das associações e verificar a situação de regularidade das mesmas.
 
 **Quem:** SME  
-Características Principais: Membros da secretaria  
-Necessidades: Maior facilidade e transparência no recebimento de documentos e comunicação com DREs e Associações, além de automatização de processos como previsão do cálculo de repasses.
+Características Principais: Servidores da Secretaria Municipal de Educação
+Necessidades: Aprimorar a gestão dos recursos do PTRF, facilitar e dar mais transparência no recebimento de documentos e comunicação com DREs e automatizar processos como a previsão de cálculo de repasses.
 
 ### Funcionalidades
 **Ferramenta de apoio às associações**
@@ -123,14 +130,19 @@ Definir um roteiro de lançamento incremental, mostrando claramente os increment
 Estimar esforço por amostragem  
 Calcular custos e especificar datas e cronograma de entrega
 
+
+
 ## Como surgiu
 
 ### Fase de Descoberta:
 
-Inserir os links para os trabalhos de descoberta bem como uma explicação de cada etapa.
+O desenvolvimento da aplicação iniciou-se efetivamente em janeiro de 2020 e coincidiu com processos de redesenho do PTRF. A descoberta dos principais desafios e dificuldades do programa considerou: a) a proposta de revisão normativa realizada em 2017 por um Grupo de Trabalho da rede municipal, b) diagnóstico do Programa, a partir de entrevistas e análise de dados de sua execução, e c) estudos realizados em universidades sobre a descentralização de recursos financeiros para as unidades educacionais no município de São Paulo. 
+
+Vale destacar que entre 2018 e 2019 várias iniciativas culminaram na ampliação do Programa e na necessidade de realização de adequações legais e normativas, sendo elas: a) a incorporação de novas ações: Volta às Aulas, Fazendo Futuro, Rolê Cultural, Grêmios Estudantil, Imprensa Jovem, Mais Escola e Formação; b) a transição do atual meio de pagamento – o cheque – pelo cartão de controle de despesas; e c) a migração dos processos para o Sistema Eletrônico de Informações. Apesar de sua importância para a manutenção das unidades educacionais e para a viabilização de parte de seus projetos pedagógicos, desde sua criação, há 14 anos, o Programa não passou por nenhum processo de atualização. 
+Assim, concomitantemente ao desenvolvimento da aplicação para o Programa, tem-se revisto suas normativas de forma a modernizar e simplificar os procedimentos de uso e prestação de contas do PTRF. 
 
 **Entrevista com a área de negócio:**
-
+A primeira reunião entre as equipes do PTRF (DIACON/COPLAN/SME) e da AMcom, em conjunto com a COTIC/SME ocorreu em 16/01/2020. Em 24/01, a equipe da AMcom apresentou o primeiro desenho de produto, com base nas demandas e diagnóstico realizado pela SME.
 
 
 **Oficina:**
@@ -142,7 +154,6 @@ Inserir os links para os trabalhos de descoberta bem como uma explicação de ca
 
 
 ### Protótipos:
-Inserir link para os protótipos construídos:
 
 **Protótipo navegável da prestação de contas da Associação:** 
 
@@ -158,7 +169,6 @@ Inserir link para os protótipos construídos:
 
 
 ### Testes de Usabilidade:
-Inserir link para os testes de usabilidade aplicados:
 
 **Testes realizados com o protótipo da Associação:**
 
@@ -171,7 +181,6 @@ Inserir link para os testes de usabilidade aplicados:
 
 ## Links Úteis:
 
-Inserir aqui o link para os ambientes utilizados pelo projeto:
 
 **Homologação:**
 
