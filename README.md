@@ -48,8 +48,8 @@ O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela
 </tr>
 <tr>
 <td>Agente de Governança</td>
-<td>???</td>
-<td>???</td>
+<td>Filipe</td>
+<td>Fernando</td>
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
