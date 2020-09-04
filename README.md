@@ -47,12 +47,12 @@ O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela
 <tr>
 <td>Product Owner</td>
 <td>Ananda Grinkraut</td>
-<td>-</td>
+<td>Meire Cristina David</td>
 </tr>
 <tr>
 <td>Agente de Governança</td>
-<td>Filipe</td>
-<td>Fernando</td>
+<td>Filipe Pereira Nunes de Carvalho</td>
+<td>Fernando Gonsales</td>
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
