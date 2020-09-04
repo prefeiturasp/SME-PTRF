@@ -106,21 +106,21 @@ Características Principais: Servidores da Secretaria Municipal de Educação
 Necessidades: Aprimorar a gestão dos recursos do PTRF, facilitar e dar mais transparência no recebimento de documentos e comunicação com DREs e automatizar processos como a previsão de cálculo de repasses.
 
 ### Funcionalidades
-**Ferramenta de apoio às associações**
+**Ferramenta de apoio às Unidades Educacionais/Associações**
 - Dados da associação;  
 - Lançamento e acompanhamento dos créditos e despesas;  
 - Painel de dados;  
 - Central de notificações;  
 - Geração dos documentos para a prestação de contas ( Demonstrativo financeiro, relação de bens e atas de apresentação da prestação de contas);  
   
-**Ferramenta de apoio às diretorias**
+**Ferramenta de apoio às Diretorias Regionais de Educação**
 - Dados da diretoria;  
 - Atribuição de técnicos as associações;  
 - Consulta das associações, verificação da regularidade e acompanhamento da prestação de contas;  
 - Gestão do processo de análise e fiscalização da prestação de contas;  
 - Geração de relatórios consolidados para a SME;  
   
-**Ferramenta de apoio à secretária**  
+**Ferramenta de apoio à Secretaria Municipal de Educação**  
 - Painel de dados;  
 - Cálculo dos repasses;  
 - Geração de relatórios;
