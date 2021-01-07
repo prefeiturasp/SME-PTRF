@@ -10,7 +10,7 @@ Com isso, pretendemos:
 - aumentar os níveis de transparência ativa e de abertura de dados, garantindo a proteção de dados pessoais; 
 - instituir metodologias ágeis e colaborativas como parte do processo de desenvolvimento e de evolução de sistemas administrativos e de serviços digitais; 
 - fortalecer o controle das políticas educacionais e da aplicação de recursos por parte da gestão e da sociedade; 
-- promover espaços e metodologias de colaboração entre governo, Academia, sociedade civil e setor privado. 
+- promover espaços e metodologias de colaboração entre governo, academia, sociedade civil e setor privado. 
 
 O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/original/1X/c88a4715eb3f9fc3ceb882c1f6afe9e308805a17.pdf) é uma das ferramentas para operacionalização. Baseado em um modelo de contratação inspirado pelos movimentos ágil e de Software Craftsmanship, trabalhamos com equipes multidisciplinares para o desenvolvimento de produtos que beneficiam toda a comunidade escolar (técnicos da SME e DREs, gestores, professores, alunos e famílias) e concretizam os objetivos da Estratégia de Transformação Digital e Governo Aberto “Pátio Digital”.
 
@@ -18,7 +18,7 @@ O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/
 O Sistema Integrado de Gestão visa: a) apoiar os processos de gestão e prestação de contas de recursos financeiros das unidades educacionais da Rede Municipal de Educação de São Paulo, b) apoiar o acompanhamento e fiscalização dos referidos recursos pelas Diretorias Regionais de Educação e c) auxiliar na gestão e avaliação dos programas de transferência de recursos por parte da Secretaria Municipal de Educação. O Sistema inicialmente foi concebido para apoiar os processos de gestão e prestação de contas do Programa de Transferência de Recursos Financeiros (PTRF).
 
 # PTRF
-O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela Secretaria Municipal de Educação em 2005, com objetivo de garantir maior autonomia às Unidades Educacionais. Os recursos são repassados às Associações de Pais e Mestres (APMs) e Associações de Pais e Mestres Servidores, Usuários e Amigos dos CEUs (APMSUAC), entidades responsáveis pelo recebimento, execução e prestação de contas dos recursos transferidos pela SME. A fiscalização da aplicação dos recursos financeiros é de responsabilidade das Diretorias Regionais de Educação e da Secretaria Municipal de Educação. Por meio do programa, a comunidade escolar participa do processo de decisão sobre o destino dos recursos repassados para manutenção e melhorias das Unidades Educacionais.
+O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela Secretaria Municipal de Educação em 2005, com objetivo de garantir maior autonomia às Unidades Educacionais. Os recursos são repassados às Associações de Pais e Mestres (APMs) e Associações de Pais e Mestres Servidores, Usuários e Amigos dos CEUs (APMSUAC), entidades responsáveis pelo recebimento, execução e prestação de contas dos recursos transferidos pela Secretaria Municipal de Educação (SME). A fiscalização da aplicação dos recursos financeiros é de responsabilidade das Diretorias Regionais de Educação (DRE) e da SME. Por meio do programa, a comunidade escolar participa do processo de decisão sobre o destino dos recursos repassados para manutenção e melhorias das Unidades Educacionais.
 
 **Conteúdo:**
  1. [Sobre o Time](#Sobre-o-Time)
@@ -51,8 +51,8 @@ O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela
 </tr>
 <tr>
 <td>Agente de Governança</td>
-<td>Filipe Pereira Nunes de Carvalho</td>
 <td>Fernando Gonsales</td>
+<td>Victor Williams Stafusa da Silva</td>
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
@@ -61,7 +61,7 @@ O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela
 </tr>
 <tr>
 <td>Scrum Master</td>
-<td>Marcos S. Nastri</td>
+<td>Allan Santos</td>
 <td>-</td>
 </tr>
 <tr>
@@ -94,16 +94,16 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 
 ### Personas
 **Quem:** Unidade Educacional/Associações 
-Características Principais: Os usuários iniciais serão os Diretores das associações e mais um servidor por este indicado.  
-Necessidades: Maior facilidade e transparência nos processos de gestão e prestação de contas dos recursos do PTRF.  
+**Características Principais:** os usuários iniciais serão os Diretores das associações e mais um servidor por este indicado.  
+**Necessidades:** maior facilidade e transparência nos processos de gestão e prestação de contas dos recursos do PTRF.  
   
 **Quem:** DRE  
-Características Principais: Técnicos das diretorias_  
-Necessidades: Maior facilidade e transparência para acompanhar e fiscalizar a prestação de contas das associações e verificar a situação de regularidade das mesmas.
+**Características Principais:** técnicos das diretorias 
+**Necessidades:** maior facilidade e transparência para acompanhar e fiscalizar a prestação de contas das associações e verificar a situação de regularidade das mesmas.
 
 **Quem:** SME  
-Características Principais: Servidores da Secretaria Municipal de Educação
-Necessidades: Aprimorar a gestão dos recursos do PTRF, facilitar e dar mais transparência no recebimento de documentos e comunicação com DREs e automatizar processos como a previsão de cálculo de repasses.
+**Características Principais:** servidores da Secretaria Municipal de Educação
+**Necessidades:** aprimorar a gestão dos recursos do PTRF, facilitar e dar mais transparência no recebimento de documentos e comunicação com DREs e automatizar processos como a previsão de cálculo de repasses.
 
 ### Funcionalidades
 **Ferramenta de apoio às Unidades Educacionais/Associações**
@@ -111,7 +111,7 @@ Necessidades: Aprimorar a gestão dos recursos do PTRF, facilitar e dar mais tra
 - Lançamento e acompanhamento dos créditos e despesas;  
 - Painel de dados;  
 - Central de notificações;  
-- Geração dos documentos para a prestação de contas ( Demonstrativo financeiro, relação de bens e atas de apresentação da prestação de contas);  
+- Geração dos documentos para a prestação de contas (demonstrativo financeiro, relação de bens e atas de apresentação da prestação de contas);  
   
 **Ferramenta de apoio às Diretorias Regionais de Educação**
 - Dados da diretoria;  
@@ -124,9 +124,6 @@ Necessidades: Aprimorar a gestão dos recursos do PTRF, facilitar e dar mais tra
 - Painel de dados;  
 - Cálculo dos repasses;  
 - Geração de relatórios;
-
-### Jornadas
-Descrever as principais jornadas de usuários
 
 ### Roadmap
 
@@ -649,14 +646,9 @@ Assim, concomitantemente ao desenvolvimento da aplicação para o Programa, tem-
 **Entrevista com a área de negócio:**
 A primeira reunião entre as equipes do PTRF (DIACON/COPLAN/SME) e da AMcom, em conjunto com a COTIC/SME ocorreu em 16/01/2020. Em 24/01, a equipe da AMcom apresentou o primeiro desenho de produto, com base nas demandas e diagnóstico realizado pela SME.
 
+**Oficinas:**
 
-**Oficina:**
-
-
-
-**Repositório de documentos produzidos:**
-
-
+Uma série de oficinas de cocriação, protótipos e testes de usuários foram realizados para criação e validação das soluções oferecidas pelo sistema. Também são previstas novas oficinas e testes para funcionalidades futuras.
 
 ### Protótipos:
 
@@ -700,7 +692,6 @@ Não entrou em produção ainda.
 | Canal de comunicação | Objetivos |
 |----------------------|-----------|
 | [Issues do Github](https://github.com/prefeiturasp/SME-PTRF/issues) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas |
-| Telegram | - Comunicar novidades sobre os projetos<br> - Movimentar a comunidade<br>  - Falar tópicos que **não** demandem discussões profundas |
 
 ## Como contribuir
 
