@@ -52,7 +52,7 @@ como ele está estruturado. Se você tem qualquer ideia de como podemos melhorar
 alguma abordagem na solução de problemas, refatoração de código, melhoria em
 algum recurso ou qualquer outra coisa relacionada, siga estes passos:
 
-1. Certifique-se de que sua ideia já não esteja sendo abordada dentro do conjuntos de issues [issues do GitHub](https://github.com/prefeiturasp/SME-plataforma-curriculo/issues);
+1. Certifique-se de que sua ideia já não esteja sendo abordada dentro do conjuntos de issues [issues do GitHub](https://github.com/prefeiturasp/SME-PTRF/issues);
 2. Defenda a sua ideia e explique de forma convincente porque ela deve ser
    acolhida. Eis algumas questões a considerar:
    1. Você realmente esta propondo uma ideia só ou um conjunto de ideias?
@@ -71,7 +71,7 @@ algum recurso ou qualquer outra coisa relacionada, siga estes passos:
       
       Tendo passado pelo crivo de todos estes questionamentos basta
 [criar uma nova issue](Tendo passado pelo crivo de todos estes questionamentos basta
-[criar uma nova issue](https://github.com/prefeiturasp/SME-plataforma-curriculo/issues/new)
+[criar uma nova issue](https://github.com/prefeiturasp/SME-PTRF/issues/new)
 descrevendo as melhorias e usando o label **melhorias**./new)
 descrevendo as melhorias e usando o label **melhorias**.
 
@@ -183,8 +183,7 @@ entender melhor sobre esta decisão veja
 Se você não trabalha com código mas quer ajudar existem muitas outras
 formas de contribuir:
 
-- Ajude com a documentação do projeto [nossa wiki](https://github.com/prefeiturasp/SME-plataforma-curriculo/wiki);
-- Fale sobre o curriculo digital e o pátio digital nas suas redes sociais, blogs, etc. Espalhe a palavra;
+- Fale sobre O PTRF nas suas redes sociais, blogs, etc. Espalhe a palavra;
 - Crie material promocional como apresentações, screencasts, mídia para
   compartilhamento em redes sociais, etc;
 - Viu alguma discussão que te interessa e onde você pode acrescentar mesmo sem
