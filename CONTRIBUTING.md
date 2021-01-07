@@ -93,7 +93,7 @@ escolar com apenas alguns cliques, otimizando de forma radical este processo que
 antes poderia demorar semanas envolvendo o trabalho de muitas pessoas.
 
 Para criar seu pedido de recurso basta
-[criar uma nova issue](### Pedindo recursos
+[criar uma nova issue](### Pedindo recursos)
 
 Tendo em vista o que estamos construindo junto com a comunidade, novos recursos
 tem baixa prioridade no nosso fluxo. Vale a pena enviar sua sugestão de recurso
