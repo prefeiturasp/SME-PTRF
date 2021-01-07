@@ -14,7 +14,8 @@ Com isso, pretendemos:
 
 O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/original/1X/c88a4715eb3f9fc3ceb882c1f6afe9e308805a17.pdf) é uma das ferramentas para operacionalização. Baseado em um modelo de contratação inspirado pelos movimentos ágil e de Software Craftsmanship, trabalhamos com equipes multidisciplinares para o desenvolvimento de produtos que beneficiam toda a comunidade escolar (técnicos da SME e DREs, gestores, professores, alunos e famílias) e concretizam os objetivos da Estratégia de Transformação Digital e Governo Aberto “Pátio Digital”.
 
-**Conteúdo:**
+# Conteúdo
+
  1. [Sobre o Produto](#Sobre-o-Produto)
  2. [Sobre o Time](#Sobre-o-Time)
  3. [Como surgiu](#Como-surgiu)
@@ -22,34 +23,33 @@ O [Ateliê do Software](http://forum.govit.prefeitura.sp.gov.br/uploads/default/
  5. [Comunicação](#Comunicação)
  6. [Como contribuir](#como-contribuir)
  7. [Repositórios](#Repositórios)
- 8. [Documentações Auxiliares](#Documentações-Auxiliares)
- 9. [Instalação e Configuração](#Instalação-e-Configuração)
+ 8. [Instalação e Configuração](#Instalação-e-Configuração)
  
-## Sobre o Produto
+# Sobre o Produto
 
-### SIG-Escola
+## SIG-Escola
 O Sistema Integrado de Gestão visa: a) apoiar os processos de gestão e prestação de contas de recursos financeiros das unidades educacionais da Rede Municipal de Educação de São Paulo, b) apoiar o acompanhamento e fiscalização dos referidos recursos pelas Diretorias Regionais de Educação e c) auxiliar na gestão e avaliação dos programas de transferência de recursos por parte da Secretaria Municipal de Educação. O Sistema inicialmente foi concebido para apoiar os processos de gestão e prestação de contas do Programa de Transferência de Recursos Financeiros (PTRF).
 
-### PTRF
+## PTRF
 O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela Secretaria Municipal de Educação em 2005, com objetivo de garantir maior autonomia às Unidades Educacionais. Os recursos são repassados às Associações de Pais e Mestres (APMs) e Associações de Pais e Mestres Servidores, Usuários e Amigos dos CEUs (APMSUAC), entidades responsáveis pelo recebimento, execução e prestação de contas dos recursos transferidos pela Secretaria Municipal de Educação (SME). A fiscalização da aplicação dos recursos financeiros é de responsabilidade das Diretorias Regionais de Educação (DRE) e da SME. Por meio do programa, a comunidade escolar participa do processo de decisão sobre o destino dos recursos repassados para manutenção e melhorias das Unidades Educacionais.
 
 ### Objetivos de Negócio
 O SIG-Escola é um sistema inteligente de gestão que permite que escolas, associações, DREs e SME tenham otimização do trabalho relativo à gestão dos recursos do PTRF, garantindo não apenas mais eficiência em todos os processos como também aumentando a transparência e possibilitando um trabalho baseado em análise de dados.
 
-### Personas
+## Personas
 **Quem:** Unidade Educacional/Associações 
-**Características Principais:** os usuários iniciais serão os Diretores das associações e mais um servidor por este indicado.  
-**Necessidades:** maior facilidade e transparência nos processos de gestão e prestação de contas dos recursos do PTRF.  
+**Características Principais:** os usuários iniciais serão os Diretores das associações e mais um servidor por este indicado
+**Necessidades:** maior facilidade e transparência nos processos de gestão e prestação de contas dos recursos do PTRF  
   
 **Quem:** DRE  
 **Características Principais:** técnicos das diretorias 
-**Necessidades:** maior facilidade e transparência para acompanhar e fiscalizar a prestação de contas das associações e verificar a situação de regularidade das mesmas.
+**Necessidades:** maior facilidade e transparência para acompanhar e fiscalizar a prestação de contas das associações e verificar a situação de regularidade das mesmas
 
 **Quem:** SME  
 **Características Principais:** servidores da Secretaria Municipal de Educação
-**Necessidades:** aprimorar a gestão dos recursos do PTRF, facilitar e dar mais transparência no recebimento de documentos e comunicação com DREs e automatizar processos como a previsão de cálculo de repasses.
+**Necessidades:** aprimorar a gestão dos recursos do PTRF, facilitar e dar mais transparência no recebimento de documentos e comunicação com DREs e automatizar processos como a previsão de cálculo de repasses
 
-### Funcionalidades
+## Funcionalidades
 **Ferramenta de apoio às Unidades Educacionais/Associações**
 - Dados da associação;  
 - Lançamento e acompanhamento dos créditos e despesas;  
@@ -69,7 +69,7 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 - Cálculo dos repasses;  
 - Geração de relatórios;
 
-### Roadmap
+## Roadmap
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=708
        style='width:531.35pt;border-collapse:collapse'>
@@ -577,7 +577,7 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
     </tr>
 </table>
 
-## Sobre o Time:
+# Sobre o Time:
 
 <table>
 <thead>
@@ -631,9 +631,9 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 </tbody>
 </table>
 
-## Como surgiu
+# Como surgiu
 
-### Fase de Descoberta:
+## Fase de Descoberta:
 
 O desenvolvimento da aplicação iniciou-se efetivamente em janeiro de 2020 e coincidiu com processos de redesenho do PTRF. A descoberta dos principais desafios e dificuldades do programa considerou: a) a proposta de revisão normativa realizada em 2017 por um Grupo de Trabalho da rede municipal, b) diagnóstico do Programa, a partir de entrevistas e análise de dados de sua execução, e c) estudos realizados em universidades sobre a descentralização de recursos financeiros para as unidades educacionais no município de São Paulo. 
 
@@ -647,7 +647,7 @@ A primeira reunião entre as equipes do PTRF (DIACON/COPLAN/SME) e da AMcom, em 
 
 Uma série de oficinas de cocriação, protótipos e testes de usuários foram realizados para criação e validação das soluções oferecidas pelo sistema. Também são previstas novas oficinas e testes para funcionalidades futuras.
 
-### Protótipos:
+## Protótipos:
 
 **Protótipo navegável da prestação de contas da Associação:** 
 
@@ -661,8 +661,7 @@ Uma série de oficinas de cocriação, protótipos e testes de usuários foram r
 
 [https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=204%3A264&viewport=590%2C381%2C0.125&scaling=min-zoom](https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=204%3A264&viewport=590%2C381%2C0.125&scaling=min-zoom "https://www.figma.com/proto/6uptsXtau28gVruupqHibV/PTRF-sprint06?node-id=204%3A264&viewport=590%2C381%2C0.125&scaling=min-zoom")
 
-
-### Testes de Usabilidade:
+## Testes de Usabilidade:
 
 **Testes realizados com o protótipo da Associação:**
 
@@ -673,8 +672,7 @@ Uma série de oficinas de cocriação, protótipos e testes de usuários foram r
 [https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx](https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx "https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx")
 
 
-## Links Úteis:
-
+# Links Úteis:
 
 **Homologação:**
 
@@ -684,34 +682,27 @@ Uma série de oficinas de cocriação, protótipos e testes de usuários foram r
 
 Não entrou em produção ainda.
 
-## Comunicação:
+# Comunicação:
 
 | Canal de comunicação | Objetivos |
 |----------------------|-----------|
 | [Issues do Github](https://github.com/prefeiturasp/SME-PTRF/issues) | - Sugestão de novas funcionalidades<br> - Reportar bugs<br> - Discussões técnicas |
 
-## Como contribuir
+# Como contribuir
 
-Contribuições são **super bem vindas**! Se você tem vontade de construir o
-PTRF conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md)
-onde explicamos detalhadamente como trabalhamos e de que formas você pode nos
-ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir 
-nosso [código de conduta](./CODEOFCONDUCT.md).
+Contribuições são **super bem vindas**! Se você tem vontade de construir o PTRF conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md) onde explicamos detalhadamente como trabalhamos e de que formas você pode nos ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir  nosso [código de conduta](./CODEOFCONDUCT.md).
 
-## Repositórios:
+# Repositórios:
 
 [SME-PTRF-BackEnd](https://github.com/prefeiturasp/SME-PTRF-BackEnd)
 
 [SME-PTRF-FrontEnd](https://github.com/prefeiturasp/SME-PTRF-FrontEnd)
 
 
-## Documentações Auxiliares:
 
-Inserir link para a pasta de documentações ou algum material específico que tenha sido produzido.
+# Instalação e Configuração para desenvolvimento:
 
-## Instalação e Configuração para desenvolvimento:
-
-### Para contribuir com o desenvolvimento da API
+## Para contribuir com o desenvolvimento da API
 
 I)  Clone o repositório.
 ```console
@@ -799,7 +790,7 @@ $ flower -A config --port=5555
 $ celery  -A config purge
 ```
 
-### Para contribuir com o desenvolvimento do front:
+## Para contribuir com o desenvolvimento do front:
 
 I) Clone o repositório.
 
