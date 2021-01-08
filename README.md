@@ -1,6 +1,3 @@
-Esse é o repositório central do projeto PTRF e as issues estão nele, mas ele é basicamente infra. O repositório da API em Django é esse:  [SME-PTRF-BackEnd](https://github.com/prefeiturasp/SME-PTRF-BackEnd) issues com a tag API viram PRs nele.
-e o react é esse aqui:  [SME-PTRF-FrontEnd](https://github.com/prefeiturasp/SME-PTRF-FrontEnd) issues com a tag interface viram PRs nele.
-
 # Estratégia de Transformação Digital e Governo Aberto na SME
 
 Como um governo pode atuar para garantir o bem comum de todos? Na SME, acreditamos que um dos meios para isso seja garantir transparência e prestação de contas e constante relação entre governo e sociedade para o desenvolvimento e implementação de políticas públicas. 
@@ -33,7 +30,7 @@ O Sistema Integrado de Gestão visa: a) apoiar os processos de gestão e presta�
 ## PTRF
 O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela Secretaria Municipal de Educação em 2005, com objetivo de garantir maior autonomia às Unidades Educacionais. Os recursos são repassados às Associações de Pais e Mestres (APMs) e Associações de Pais e Mestres Servidores, Usuários e Amigos dos CEUs (APMSUAC), entidades responsáveis pelo recebimento, execução e prestação de contas dos recursos transferidos pela Secretaria Municipal de Educação (SME). A fiscalização da aplicação dos recursos financeiros é de responsabilidade das Diretorias Regionais de Educação (DRE) e da SME. Por meio do programa, a comunidade escolar participa do processo de decisão sobre o destino dos recursos repassados para manutenção e melhorias das Unidades Educacionais.
 
-### Objetivos de Negócio
+## Objetivos de Negócio
 O SIG-Escola é um sistema inteligente de gestão que permite que escolas, associações, DREs e SME tenham otimização do trabalho relativo à gestão dos recursos do PTRF, garantindo não apenas mais eficiência em todos os processos como também aumentando a transparência e possibilitando um trabalho baseado em análise de dados.
 
 ## Personas
@@ -698,9 +695,9 @@ Contribuições são **super bem vindas**! Se você tem vontade de construir o P
 
 [SME-PTRF-FrontEnd](https://github.com/prefeiturasp/SME-PTRF-FrontEnd)
 
-
-
 # Instalação e Configuração para desenvolvimento:
+
+Esse é o repositório central do projeto PTRF e as issues estão nele, mas ele é basicamente infra. O repositório da API em Django é:  [SME-PTRF-BackEnd](https://github.com/prefeiturasp/SME-PTRF-BackEnd) issues com a tag API viram PRs nele. Já o react é:  [SME-PTRF-FrontEnd](https://github.com/prefeiturasp/SME-PTRF-FrontEnd) issues com a tag interface viram PRs nele.
 
 ## Para contribuir com o desenvolvimento da API
 
