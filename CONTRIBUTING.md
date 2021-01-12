@@ -116,7 +116,7 @@ nenhuma melhoria na estabilidade, funcionalidade, testabilidade do projeto ou co
 
 Se você não trabalha com código mas quer ajudar existem muitas outras formas de contribuir:
 
-- Fale sobre O PTRF nas suas redes sociais, blogs, etc. Espalhe a palavra;
+- Fale sobre o PTRF nas suas redes sociais, blogs, etc. Espalhe a palavra;
 - Crie material promocional como apresentações, screencasts, mídia para compartilhamento em redes sociais, etc;
 - Viu alguma discussão que te interessa e onde você pode acrescentar mesmo sem
   conhecimento técnico? Não se acanhe e participe também nas issues do GitHub.
