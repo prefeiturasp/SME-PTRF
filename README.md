@@ -34,19 +34,24 @@ O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela
 O SIG-Escola é um sistema inteligente de gestão que permite que escolas, associações, DREs e SME tenham otimização do trabalho relativo à gestão dos recursos do PTRF, garantindo não apenas mais eficiência em todos os processos como também aumentando a transparência e possibilitando um trabalho baseado em análise de dados.
 
 ## Personas
-**Quem:** Unidade Educacional/Associações 
-**Características Principais:** os usuários iniciais serão os Diretores das associações e mais um servidor por este indicado
-**Necessidades:** maior facilidade e transparência nos processos de gestão e prestação de contas dos recursos do PTRF  
-  
-**Quem:** DRE  
-**Características Principais:** técnicos das diretorias 
-**Necessidades:** maior facilidade e transparência para acompanhar e fiscalizar a prestação de contas das associações e verificar a situação de regularidade das mesmas
 
-**Quem:** SME  
-**Características Principais:** servidores da Secretaria Municipal de Educação
-**Necessidades:** aprimorar a gestão dos recursos do PTRF, facilitar e dar mais transparência no recebimento de documentos e comunicação com DREs e automatizar processos como a previsão de cálculo de repasses
+### Unidade Educacional/Associações 
+
+**- Características principais:** os usuários iniciais serão os Diretores das associações e mais um servidor por este indicado
+**- Necessidades:** maior facilidade e transparência nos processos de gestão e prestação de contas dos recursos do PTRF  
+  
+### DRE 
+
+**- Características principais:** técnicos das diretorias 
+**- Necessidades:** maior facilidade e transparência para acompanhar e fiscalizar a prestação de contas das associações e verificar a situação de regularidade das mesmas
+
+### SME  
+
+**- Características principais:** servidores da Secretaria Municipal de Educação
+**- Necessidades:** aprimorar a gestão dos recursos do PTRF, facilitar e dar mais transparência no recebimento de documentos e comunicação com DREs e automatizar processos como a previsão de cálculo de repasses
 
 ## Funcionalidades
+
 **Ferramenta de apoio às Unidades Educacionais/Associações**
 - Dados da associação;  
 - Lançamento e acompanhamento dos créditos e despesas;  
