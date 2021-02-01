@@ -30,8 +30,33 @@ O Sistema Integrado de Gestão visa: a) apoiar os processos de gestão e presta�
 ## PTRF
 O Programa de Transferência de Recursos Financeiros (PTRF) foi instituído pela Secretaria Municipal de Educação em 2005, com objetivo de garantir maior autonomia às Unidades Educacionais. Os recursos são repassados às Associações de Pais e Mestres (APMs) e Associações de Pais e Mestres Servidores, Usuários e Amigos dos CEUs (APMSUAC), entidades responsáveis pelo recebimento, execução e prestação de contas dos recursos transferidos pela Secretaria Municipal de Educação (SME). A fiscalização da aplicação dos recursos financeiros é de responsabilidade das Diretorias Regionais de Educação (DRE) e da SME. Por meio do programa, a comunidade escolar participa do processo de decisão sobre o destino dos recursos repassados para manutenção e melhorias das Unidades Educacionais.
 
+## Visão de Futuro
+
+Para **Associações de Pais e Mestres (APMs) e Associações de Pais e Mestres Servidores, Usuários e Amigos dos CEUs (APMSUAC), servidores das Diretorias Regionais de Educação (DREs) e da Secretaria Municipal de Educação (SME)**
+
+Que **realizam a gestão, execução, acompanhamento ou fiscalização dos recursos do Programa de Transferência de Recursos Financeiros (PTRF)**
+
+O **SIG-Escola** 
+
+É um **sistema na web**  
+
+Que **apoia as Associações na gestão e prestação de contas dos recursos do Programa; as DREs, no acompanhamento e fiscalização das prestações de contas e a SME, na gestão e avaliação do Programa.**
+
+Diferentemente da **realização das prestações de contas em planilha eletrônica, atualizadas a cada repasse**
+
+O Nosso produto **busca promover maior agilidade e transparência nos processos de acompanhamento, prestação e fiscalização dos recursos do Programa.**
+
 ## Objetivos de Negócio
+
 O SIG-Escola é um sistema inteligente de gestão que permite que escolas, associações, DREs e SME tenham otimização do trabalho relativo à gestão dos recursos do PTRF, garantindo não apenas mais eficiência em todos os processos como também aumentando a transparência e possibilitando um trabalho baseado em análise de dados.
+
+- **É**: o Sistema Integrado de Gestão visa: a) apoiar os processos de gestão e prestação de contas de recursos financeiros das unidades educacionais da Rede Municipal de Educação de São Paulo, b) apoiar o acompanhamento e fiscalização dos referidos recursos pelas Diretorias Regionais de Educação e c) auxiliar na gestão e avaliação dos programas de transferência de recursos por parte da Secretaria Municipal de Educação. O Sistema inicialmente foi concebido para apoiar os processos de gestão e prestação de contas do Programa de Transferência de Recursos Financeiros (PTRF).
+
+- **Não é**: uma substituição do processo administrativo de Prestação de Contas, encaminhados via [Sistema Eletrônico de Informações – SEI] (https://www.prefeitura.sp.gov.br/cidade/secretarias/gestao/processo_eletronico/sei/index.php?p=187710)
+
+- **Faz**: torna os diversos processos exigidos pelo Programa realizáveis em formato digital, automatizando e/ou otimizando uma série de ações e proporcionando maior possibilidade de análise da execução de recursos, além de transparência para a população
+
+- **Não faz**: não elimina/substitui a necessidade das obrigações das Associações, DREs e SME nos processos do Programa
 
 ## Personas
 
