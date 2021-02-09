@@ -604,7 +604,7 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
     </tr>
 </table>
 
-# Sobre o Time:
+# Sobre o Time
 
 <table>
 <thead>
@@ -660,7 +660,7 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 
 # Como surgiu
 
-## Fase de Descoberta:
+## Fase de Descoberta
 
 O desenvolvimento da aplicação iniciou-se efetivamente em janeiro de 2020 e coincidiu com processos de redesenho do PTRF. A descoberta dos principais desafios e dificuldades do programa considerou: a) a proposta de revisão normativa realizada em 2017 por um Grupo de Trabalho da rede municipal, b) diagnóstico do Programa, a partir de entrevistas e análise de dados de sua execução, e c) estudos realizados em universidades sobre a descentralização de recursos financeiros para as unidades educacionais no município de São Paulo. 
 
