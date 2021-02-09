@@ -707,7 +707,7 @@ Uma série de oficinas de cocriação, protótipos e testes de usuários foram r
 
 **Produção:**
 
-Não entrou em produção ainda.
+Ainda não entrou em produção.
 
 # Comunicação:
 
