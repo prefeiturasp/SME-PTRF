@@ -632,7 +632,7 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 </tr>
 <tr>
 <td>Scrum Master</td>
-<td>Allan Santos</td>
+<td>Augusto Silva</td>
 <td>-</td>
 </tr>
 <tr>
