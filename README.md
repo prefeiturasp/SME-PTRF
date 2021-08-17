@@ -674,7 +674,7 @@ A primeira reunião entre as equipes do PTRF (DIACON/COPLAN/SME) e da AMcom, em 
 
 Uma série de oficinas de cocriação, protótipos e testes de usuários foram realizados para criação e validação das soluções oferecidas pelo sistema. Também são previstas novas oficinas e testes para funcionalidades futuras.
 
-## Protótipos:
+## Protótipos
 
 **Protótipo navegável da prestação de contas da Associação:** 
 
@@ -698,8 +698,7 @@ Uma série de oficinas de cocriação, protótipos e testes de usuários foram r
 
 [https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx](https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx "https://github.com/prefeiturasp/SME-DesignServicos/blob/master/docs/3-novas-demandas/PTRF/anotacoes-teste-prototipo.docx")
 
-
-# Links Úteis:
+# Links Úteis
 
 **Homologação:**
 
@@ -709,7 +708,7 @@ Uma série de oficinas de cocriação, protótipos e testes de usuários foram r
 
 Ainda não entrou em produção.
 
-# Comunicação:
+# Comunicação
 
 | Canal de comunicação | Objetivos |
 |----------------------|-----------|
@@ -719,13 +718,13 @@ Ainda não entrou em produção.
 
 Contribuições são **super bem vindas**! Se você tem vontade de construir o PTRF conosco, veja o nosso [guia de contribuição](./CONTRIBUTING.md) onde explicamos detalhadamente como trabalhamos e de que formas você pode nos ajudar a alcançar nossos objetivos. Lembrando que todos devem seguir  nosso [código de conduta](./CODEOFCONDUCT.md).
 
-# Repositórios:
+# Repositórios
 
 [SME-PTRF-BackEnd](https://github.com/prefeiturasp/SME-PTRF-BackEnd)
 
 [SME-PTRF-FrontEnd](https://github.com/prefeiturasp/SME-PTRF-FrontEnd)
 
-# Instalação e Configuração para desenvolvimento:
+# Instalação e Configuração para desenvolvimento
 
 Esse é o repositório central do projeto PTRF e as issues estão nele, mas ele é basicamente infra. O repositório da API em Django é:  [SME-PTRF-BackEnd](https://github.com/prefeiturasp/SME-PTRF-BackEnd) issues com a tag API viram PRs nele. Já o react é:  [SME-PTRF-FrontEnd](https://github.com/prefeiturasp/SME-PTRF-FrontEnd) issues com a tag interface viram PRs nele.
 
