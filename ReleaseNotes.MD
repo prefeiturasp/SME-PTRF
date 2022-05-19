@@ -8,6 +8,7 @@ Versão: 1.31.0
 
 ## Release Notes
 
+
 ### 1.31.0 - 16/05/2022 - Entregas da Release 4b - Sprint 41
 * DRE > Novos filtros na confêrencia de lançamentos na análise de PC
 * DRE > Solicitação de ajustes de saldo bancário em análise de PC
