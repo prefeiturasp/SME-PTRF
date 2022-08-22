@@ -259,8 +259,8 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 </tr>
 <tr>
 <td>Agente de Governança</td>
-<td>Fernando Gonsales</td>
-<td>Victor Williams Stafusa da Silva</td>
+<td>Gabriela Rowlands</td>
+<td>ernando Gonsales</td>
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
@@ -269,12 +269,12 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 </tr>
 <tr>
 <td>Scrum Master</td>
-<td>Augusto Silva</td>
+<td>Ricardo Coda</td>
 <td>-</td>
 </tr>
 <tr>
 <td>Analista UX/UI</td>
-<td>Giovanna Zanettim</td>
+<td>Joilson Day</td>
 <td>-</td>
 </tr>
 <tr>
@@ -284,7 +284,7 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 </tr>
 <tr>
 <td>Analista Programador</td>
-<td>Anderson Marques</td>
+<td>Linker Oliveria</td>
 <td>-</td>
 </tr>
 <tr>
@@ -292,6 +292,14 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 <td>Ollyver Ottoboni</td>
 <td>-</td>
 </tr>
+<tr>
+<td>Analista Programador</td>
+<td>Lucas Rocha</td>
+<td>-</td>
+<tr>
+<td>Analista de Negócios</td>
+<td>Rayanne Felício</td>
+<td>-</td>
 </tbody>
 </table>
 
