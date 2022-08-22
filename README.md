@@ -98,7 +98,7 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 
 ## Roadmap
 
-## **Fase 1: ferramenta de apoio às escolas**
+## **Fase 1: Ferramenta de Apoio às Unidades Educacionais**
 
 ### Acesso, dados da Associação
 - Acesso do usuário ao sistema
@@ -107,520 +107,139 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 
 ### Painel de Ações, Despesas e Receitas
 - Painel de Ações
-- Gastos da Escola (Despesas da Associação)
+- Gastos da Unidade Educacional (Despesas da Associação)
 - Entregas (Créditos da Associação)
 
 ### Prestação de Contas
 - Conciliação bancária
 - Geração de documentos para prestação de contas
 
+## **Fase 2: Apoio à Gestão e Aprimoramento do Apoio às Unidades Educacionais**
 
+### Apoio às DREs
+- Dados da Associaçã
+- Geração de documentos para prestação de contaso
+- Acompanhamento das PCs (conferência dos lançamentos e documentos)
+- Acompanhamento das PCs (geraçnao de relatórios e devolução para acertos)
+- Geração de relatório consolidado com os dados por DRE
 
-<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=708
-       style='width:531.35pt;border-collapse:collapse'>
-    <tr style='height:30.0pt'>
-        <td width=179 style='width:134.45pt;border:solid windowtext 1.0pt;padding:
-  0cm 3.5pt 0cm 3.5pt;height:30.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='color:black'>ENTREGA</span></b></p>
-        </td>
-        <td width=217 style='width:163.0pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:30.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='color:black'>ÉPICO</span></b></p>
-        </td>
-        <td width=312 style='width:233.9pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 3.5pt 0cm 3.5pt;height:30.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='color:black'>FUNCIONALIDADE</span></b></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=179 rowspan=7 style='width:134.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>FASE 1 Ferramenta de Apoio às escolas</span></p>
-        </td>
-        <td width=217 rowspan=3 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Acesso, dados da Associação</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Acesso do usuário ao Sistema</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Dados da Associação</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Extração de dados</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 rowspan=3 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Painel de Ações, Despesas e Receitas</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Painel de Ações</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Gastos da Escola (Despesas da Associação)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Entradas (Receitas da Associação)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 style='width:163.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Prestação de contas</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Gerar documentos para a prestação de contas</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=179 rowspan=15 style='width:134.45pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>FASE 2 - Apoio à Gestão e aprimoramento do
-  apoio às escolas</span></p>
-        </td>
-        <td width=217 rowspan=2 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Apoio às DREs</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Painel de dados da DRE (dados das UEs
-  agregados por DRE)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Geração de relatório consolidado com os
-  dados por DRE</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 rowspan=4 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Apoio à SME</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Painel de dados da SME (dados das UEs
-  agregados para a SME)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Geração de relatório consolidado com os
-  dados da SME</span></p>
-        </td>
-    </tr>
-    <tr style='height:51.0pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:51.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Integração com dados Eol - matrículas
-  (Painel de dados escolas, DRE e SME - futuramente para o cálculo dos valores)</span></p>
-        </td>
-    </tr>
-    <tr style='height:76.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:76.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Cálculo repasse - Disponibilização de
-  campos com parâmetros a serem preenchidos para o cálculo do valor a ser
-  repassado para cada APM, por tipo de ação e repasse (Parâmetros devem ser
-  facilmente modificados)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 rowspan=7 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Aprimoramento do apoio às Associações</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Impressão de telas</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Painel contas escola</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Navegação dos painéis</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Registro e visualização das modificações
-  pelo usuário final</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Comunicação entre usuários</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Conferências automáticas do CNPJ</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Conferências automáticas da nota fiscal</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 rowspan=2 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Gestão de usuários</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Perfis de usuários</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Login e senha</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=179 rowspan=10 style='width:134.45pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>FASE 3 - Integração de dados</span></p>
-        </td>
-        <td width=217 rowspan=2 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Importação de extrato bancário (API ou
-  leitura de extratos)</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Importar dados do extrato bancário para o
-  sistema</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Disponibilizar dados do extrato para a
-  visualização da escola, categorização das despesas</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 rowspan=2 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Integração com o SOF</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Importar os dados do SOF (valores
-  liquidados por escola, por DRE)</span></p>
-        </td>
-    </tr>
-    <tr style='height:51.0pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:51.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Notificar eventuais equívocos no
-  preenchimento do SOF, a partir da comparação com os valores calculados por
-  unidade</span></p>
-        </td>
-    </tr>
-    <tr style='height:51.0pt'>
-        <td width=217 rowspan=4 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:51.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Integração com o SEI</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:51.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Upload dos comprovantes vinculados a
-  despesas específicas (Mais de um documento por despesa)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Categorização dos documentos comprobatórios
-  (ex: pesquisa de preço, nota fiscal, ...)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Notificações escolas (falta de documentos
-  prestação de contas, prazos)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Automatização da alimentação do processo
-  SEI</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 rowspan=2 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Integração com o Sistema de Bens Patrimoniais</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Importação dos dados cadastrados no Sistema
-  de Bens Patrimoniais</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Geração automática dos termos de doação</span></p>
-        </td>
-    </tr>
-    <tr style='height:51.0pt'>
-        <td width=179 rowspan=5 style='width:134.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:51.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>FASE 4 - Planejamento e fiscalização</span></p>
-        </td>
-        <td width=217 rowspan=3 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:51.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Fiscalização DREs</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:51.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Criação de marcadores para a checagem da
-  prestação de contas das escolas (lançamento de despesas)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Registro de adequações necessárias e
-  adequações realizadas </span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Geração de relatório da análise da
-  prestação de contas</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 rowspan=2 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Planejamento Associações</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Inserção do Plano de Ação Anual -
-  relacionado com o planejamento da escola</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Planejamento gasto APM - cadastro de
-  despesas planejadas</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=179 rowspan=5 style='width:134.45pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>FASE 5 - Legado e comunicação</span></p>
-        </td>
-        <td width=217 rowspan=3 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Legado organizado</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Importação das bases de dados do legado do
-  Programa</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Visualização e extração de dados (csv) do
-  legado geral - DRE e SME</span></p>
-        </td>
-    </tr>
-    <tr style='height:51.0pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:51.0pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Visualização simplificada do legado por
-  unidade escolar (valores agregados repasse, despesa, saldo reprogramado)</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=217 rowspan=2 style='width:163.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Comunicação - publicização dos dados</span></p>
-        </td>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Integração de dados com o portal SME:
-  Escola Aberta / Página sobre o PTRF</span></p>
-        </td>
-    </tr>
-    <tr style='height:25.5pt'>
-        <td width=312 style='width:233.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:25.5pt'>
-            <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='color:black'>Integração de dados com o Portal de Dados
-  Abertos PMSP</span></p>
-        </td>
-    </tr>
-</table>
+### Apoio à SME
+- Parametrizações do sistema
+- Visualizaç˜åo e exportação dos saldos bancários
+- Geração do relatório consolidado com os dados da SME
+
+### Aprimoramento do apoio às Associações
+- Painel de contas da escola (resumo de recursos)
+
+### Geral
+- Gestão de usuários (acesso, permissões, grupos de acesso)
+- Notificações
+- Central de downloads
+
+## **Fase 3: Melhorias Associação e DRE**
+
+### Cadastro de Despesa 
+- Cadastro de estorno
+- Cadastro de despesa de serviço com recolhimento de imposto
+- Cadastro de despesa não reconhecida pela Associação
+- Cadastro de despesa com pagamento antecipado
+
+### Suporte aos Usuários
+- Concessão de acesso à usuários de suporte às unidades subordinadas (a partir das visões de DRE e SME)
+
+### Relatório Consolidado (DRE)
+- Geração de documentos parciais (publicação parcial #1 e #2)
+- Publicação única
+- Relatório consolidado
+
+### Cadastro e conferência dos valores reprogramados
+- Valores reprogramados (Associação): melhoria na estrutura de cadastro
+- Conferência dos valores reprogramados (DRE) independente da análida de Prestação de Contas
+
+### Abertura Seletiva de Período
+- Acompanhamento de Prestação de Contas (conferência de lançamentos e documentos): categorias de acertos que reabrem ou não para edição pela Associação
+- Cadastro de crédito e de despesa: reabertura seletiva para correção da Associação
+- Prestação de Contas (Associação): conferência da análise realizada pela DRE
+- Prestação de Contas (Associação): geração dos documentos apenas quando há ajustes internos no sistema
+
+## **Fase 4: Apoio à SME**
+
+### Conferência da documentação da DRE pela SME
+- Acompanhamento e análise da documentação gerada e dornecida pelas DREs (relatório consolidado)
+
+### Extração de dados
+- Extração de dados (créditos, despesas, prestações de contas etc.)
+
+### Geração de relatórios
+- Geração de relatórios por unidade e por ação (inicialmente)
+
+### Parametrizações
+- Parametrizações do sistema (legado)
+
+## **Fase 5: Aprimoramento Associações**
+
+### Situação patrimonial
+- Relação dos bens adquiridos cadastrados
+- Cadastro de bens produzidos
+
+### Inativação de conta
+- Solicitação de inativação pela Associação e validação pela DRE
+- Ajustes nas funcionalidades após a desativação de uma conta (cadastro de créditos, despesas, resumo de recursos, prestação de contas, acompanhamento de prestação de contas etc.)
+
+### Histórico de membros
+- Dados da Associação (registro e manutenção do histórico de membros por período de atuação)
+
+### Associações inadimplentes
+- Autorização e criação de um período especial para a Prestação de Contas
+- Geração da Prestação de Contas em um período ampliado
+- Análise e geração de relatórios da DRE
+
+## **Fase 6: Ampliação do Escopo e Início das Integrações**
+
+### Novas unidades
+- Inclusão de unidades previstas na RME e acompanhamento do início das atividades
+- Desativação de unidade
+
+### Adesão ao Programa
+- Cadastro de documentos (upload)
+- Solicitação de adesão, conferência da documentação e efetivação da adesão
+- Integração com o SEI (autorização da alimentação do processo SEI)
+
+### Habilitação anual
+- Cadastro de documentos (upload)
+- Solicitação de adesão, conferência da documentação e efetivação da adesão
+- Integração com o SEI (autorização da alimentação do processo SEI)
+
+### Plano Anual de Atividades (PAA)
+- Cadastro de prioridades
+- Edição e geração de documentos
+- Acompanhamento da execução do PAA
+
+## **Fase 7: Integração de Dados**
+
+### Importação de extrato bancário (API, leitura de extratos, Gestão Ágil BB)
+- Importar dados da movimentação bancária para o sistema
+- Disponibilizar dados do extrato para a visualização da escola, categorização das despesas
+
+### Integração com o SEI
+- Upload dos coprovantes vinculados a despesas
+- Categorização dos documentos comprobatórios
+- Automatização da alimentação do processo SEI
+
+### Leitura de notas eletrônicas
+- Revisão do cadastro de despesa, documentos gerados de prestação de contas, análise de prestação de contas e banco de dados
+
+### Integração com o SOF
+- Importar os dados do SOF (valores liquidados por Unidade Educacional e por DRE)
+- Notificar eventuais equívocos no preenchimento do SOF, a partir da comparação com os valores calculados por unidade
+
+### Integração com o Sistema de Bens Patrimoniais
+- Importação dos dados cadastrados no Sistema de Bens Patrimoniais
+- Geração automática nos termos de doação
+
+### Comunicação - publicização de dados
+- Integração de dados com Portal SME e Escola Aberta (página sobre o PTRF)
+- Integração de dados com o Portal de Dados Abertos da PMSP
 
 # Sobre o Time
 
