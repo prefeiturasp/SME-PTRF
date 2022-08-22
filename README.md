@@ -260,7 +260,7 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 <tr>
 <td>Agente de Governança</td>
 <td>Gabriela Rowlands</td>
-<td>ernando Gonsales</td>
+<td>Fernando Gonsales</td>
 </tr>
 <tr>
 <td>Gerente de Projeto</td>
