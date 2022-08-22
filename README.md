@@ -98,6 +98,24 @@ O SIG-Escola é um sistema inteligente de gestão que permite que escolas, assoc
 
 ## Roadmap
 
+## **Fase 1: ferramenta de apoio às escolas**
+
+### Acesso, dados da Associação
+- Acesso do usuário ao sistema
+- Dados da Associação
+- Extração de dados
+
+### Painel de Ações, Despesas e Receitas
+- Painel de Ações
+- Gastos da Escola (Despesas da Associação)
+- Entregas (Créditos da Associação)
+
+### Prestação de Contas
+- Conciliação bancária
+- Geração de documentos para prestação de contas
+
+
+
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=708
        style='width:531.35pt;border-collapse:collapse'>
     <tr style='height:30.0pt'>
