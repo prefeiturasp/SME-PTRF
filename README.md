@@ -1,10 +1,10 @@
 # Repositório agregador do projeto SME-PTRF
 
-Este projeto tem como objetivo o desenvolvimento do software Sig-Escola.
+Esse repositório tem por objetivo agregar os repositórios do projeto SME-PTRF.
 
-## O SIG-Escola
+## O projeto
 
-O Sig-Escola é um Sistema Integrado de Gestão que visa:
+O projeto SME-PTRF tem como objetivo o desenvolvimento do software Sig-Escola, um sistema integrado de gestão que visa:
 
 - Apoiar os processos de gestão e prestação de contas de recursos financeiros das unidades educacionais da Rede Municipal de Educação de São Paulo,
 - Apoiar o acompanhamento e fiscalização dos referidos recursos pelas Diretorias Regionais de Educação,
