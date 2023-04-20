@@ -4,6 +4,3 @@
 [submodule "FrontEnd"]
 	path = FrontEnd
 	url = git@github.com:prefeiturasp/SME-PTRF-FrontEnd.git
-[submodule "Docs"]
-	path = Docs
-	url = git@github.com:prefeiturasp/SME-PTRF-Docs.git
