@@ -26,6 +26,6 @@ Este repositório agrega os seguintes subprojetos:
 
 ## Documentação
 
-Você pode obter mais informações sobre o projeto e sobre a aplicação SigEscola em nossa [documentação](https://sigescoladocs.readthedocs.io/en/latest/?badge=latest).
+Você pode obter mais informações sobre o projeto e sobre a aplicação SigEscola em nossa [documentação](https://sigescoladocs.readthedocs.io/pt/latest/).
 
 
